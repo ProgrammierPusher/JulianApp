@@ -14,23 +14,3 @@
     }
     else { Console.WriteLine(i); } 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
