@@ -12,5 +12,8 @@
     {
         Console.WriteLine("Fizz");
     }
-    else { Console.WriteLine(i); } 
+    else
+    {
+        Console.WriteLine(i);
+    } 
 }
